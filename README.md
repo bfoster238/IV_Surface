@@ -1,4 +1,4 @@
-# Volatility Surface Plotter
+# Volatility Surface Plot
 
 This project allows users to plot the **volatility surface** for options of any publicly traded stock using the Black-Scholes model. The application fetches historical options data via `yfinance`, calculates implied volatility, and displays a 3D interactive surface plot that varies by strike price and time to expiration. The user can input a stock ticker, and the tool will generate the corresponding volatility surface.
 
